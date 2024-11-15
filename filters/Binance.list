@@ -4,8 +4,8 @@ HOST-KEYWORD,binance,Binance
 
 # API
 HOST-KEYWORD,bnbstatic,Binance
+HOST-KEYWORD,bntrace,Binance
 
 # saas 
 HOST-KEYWORD,saasexch,Binance
 HOST-KEYWORD,appsflayer,Binance
-
