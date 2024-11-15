@@ -1,39 +1,11 @@
 # NAME: Binance
 
-HOST-KEYWORD,binance.cc,Binance
-HOST-KEYWORD,binance.charity,Binance
-HOST-KEYWORD,binance.cloud,Binance
-HOST-KEYWORD,binance.co,Binance
-HOST-KEYWORD,binance.com,Binance
-HOST-KEYWORD,binance.info,Binance
-HOST-KEYWORD,binance.me,Binance
-HOST-KEYWORD,binance.net,Binance
-HOST-KEYWORD,binance.org,Binance
-HOST-KEYWORD,binance.us,Binance
-HOST-KEYWORD,binance.vision,Binance
-HOST-KEYWORD,binancecnt.com,Binance
-HOST-KEYWORD,binancezh.be,Binance
-HOST-KEYWORD,binancezh.biz,Binance
-HOST-KEYWORD,binancezh.cc,Binance
-HOST-KEYWORD,binancezh.co,Binance
-HOST-KEYWORD,binancezh.com,Binance
-HOST-KEYWORD,binancezh.info,Binance
-HOST-KEYWORD,binancezh.ink,Binance
-HOST-KEYWORD,binancezh.kim,Binance
-HOST-KEYWORD,binancezh.link,Binance
-HOST-KEYWORD,binancezh.live,Binance
-HOST-KEYWORD,binancezh.mobi,Binance
-HOST-KEYWORD,binancezh.net,Binance
-HOST-KEYWORD,binancezh.pro,Binance
-HOST-KEYWORD,binancezh.sh,Binance
-HOST-KEYWORD,binancezh.top,Binance
+HOST-KEYWORD,binance,Binance
 
 # API
-HOST-KEYWORD,binanceapi.com,Binance
-HOST-KEYWORD,bnbstatic.com,Binance
+HOST-KEYWORD,bnbstatic,Binance
 
 # saas 
-HOST-KEYWORD,saasexch.com,Binance
-HOST-KEYWORD,saasexch.io,Binance
-HOST-KEYWORD,appsflayer.com,Binance
+HOST-KEYWORD,saasexch,Binance
+HOST-KEYWORD,appsflayer,Binance
 
